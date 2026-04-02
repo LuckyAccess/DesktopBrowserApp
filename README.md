@@ -1,48 +1,57 @@
 # LuckyAccess Club
 
-Public release channel: **Beta**
+Private desktop access for LuckyAccess members with dedicated builds for Windows and macOS.
 
-Current showcased version: **2.0.0-beta.18**
+<p>
+  <img alt="Public release channel" src="https://img.shields.io/badge/Channel-Beta-111827?style=for-the-badge">
+  <img alt="Current showcased version" src="https://img.shields.io/badge/Version-2.0.0--beta.19-16a34a?style=for-the-badge">
+</p>
 
-## Download
+## Choose Your Build
 
-<p align="center">
-  <a href="https://github.com/LuckyAccess/DesktopBrowserApp/releases/download/v2.0.0-beta.18/lucky-browser-2.0.0-beta.18-setup.exe">
+### Windows
+
+<p>
+  <a href="https://github.com/LuckyAccess/DesktopBrowserApp/releases/download/v2.0.0-beta.19/lucky-browser-2.0.0-beta.19-setup.exe">
     <img alt="Download for Windows" src="https://img.shields.io/badge/Windows-Download%20Installer-2ea44f?style=for-the-badge&logo=windows&logoColor=white">
   </a>
-  <a href="https://github.com/LuckyAccess/DesktopBrowserApp/releases/download/v2.0.0-beta.18/lucky-browser-2.0.0-beta.18-arm64.pkg">
+</p>
+
+Installer for Windows 10 and newer.
+
+### macOS Apple Silicon
+
+<p>
+  <a href="https://github.com/LuckyAccess/DesktopBrowserApp/releases/download/v2.0.0-beta.19/lucky-browser-2.0.0-beta.19-arm64.pkg">
     <img alt="Download for macOS Apple Silicon" src="https://img.shields.io/badge/macOS%20ARM64-Download%20Installer-2ea44f?style=for-the-badge&logo=apple&logoColor=white">
   </a>
-  <a href="https://github.com/LuckyAccess/DesktopBrowserApp/releases/download/v2.0.0-beta.18/lucky-browser-2.0.0-beta.18-x64.pkg">
+  <img alt="Recommended" src="https://img.shields.io/badge/Recommended-M1%20%2F%20M2%20%2F%20M3%20%2F%20newer-0f766e?style=for-the-badge">
+</p>
+
+Installer for Apple Silicon Macs.
+
+### macOS Intel
+
+<p>
+  <a href="https://github.com/LuckyAccess/DesktopBrowserApp/releases/download/v2.0.0-beta.19/lucky-browser-2.0.0-beta.19-x64.pkg">
     <img alt="Download for macOS Intel" src="https://img.shields.io/badge/macOS%20Intel-Download%20Installer-2ea44f?style=for-the-badge&logo=apple&logoColor=white">
   </a>
 </p>
 
-<p align="center">
-  <strong>Windows</strong><br>
-  Installer for Windows 10 and newer.
-</p>
+Installer for Intel-based Macs.
 
-<p align="center">
-  <strong>macOS Apple Silicon</strong><br>
-  Installer for M1, M2, M3 and newer Macs.
-</p>
+## Security
 
-<p align="center">
-  <strong>macOS Intel</strong><br>
-  Installer for Intel-based Macs.
-</p>
+Installers are published through GitHub Releases. VirusTotal reports for the currently showcased release are linked below.
 
-## VirusTotal
-
-<p align="center">
-  <a href="https://www.virustotal.com/gui/file-analysis/NDA1N2FjZGRkNDA0YTk4ZWU1MmJhYWZkOTQyMzliZWQ6MTc3NTEwODUyMA==">
+<p>
+  <a href="https://www.virustotal.com/gui/file-analysis/MGM4ZGU5MmYyZmYzYjAyYTE2Yzc0OGFlZjNhYjU3MWM6MTc3NTEwOTE2Nw==">
     <img alt="Windows VirusTotal" src="https://img.shields.io/static/v1?style=for-the-badge&label=VirusTotal&message=View+report&color=2f81f7">
   </a>
-  <a href="https://www.virustotal.com/gui/file-analysis/MjI4NWVkYThmZTg1MzFhY2QxZmFkYzJmNWMwNGExMDE6MTc3NTEwODUxOA==">
+  <a href="https://www.virustotal.com/gui/file-analysis/OWFmNTJlYzE5YTBkZDI3ZDlmZmI2NDVjZTc2Y2QwYTE6MTc3NTEwOTE2NQ==">
     <img alt="macOS ARM64 VirusTotal" src="https://img.shields.io/static/v1?style=for-the-badge&label=VirusTotal&message=View+report&color=2f81f7">
   </a>
-  <a href="https://www.virustotal.com/gui/file-analysis/ODYzNjVkMDViNzIyNGUxZWY3MGUwNWI1MDEyYmZkOWY6MTc3NTEwODUyMw==">
+  <a href="https://www.virustotal.com/gui/file-analysis/Zjg2Y2IxNWQ0ZjZlNWIyNGM0MWFhNmE2ODhhZTM0MjY6MTc3NTEwOTE3MQ==">
     <img alt="macOS Intel VirusTotal" src="https://img.shields.io/static/v1?style=for-the-badge&label=VirusTotal&message=View+report&color=2f81f7">
   </a>
 </p>
