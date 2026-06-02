@@ -45,13 +45,13 @@ Installer for Intel-based Macs.
 Installers are published through GitHub Releases. VirusTotal reports for the currently showcased release are linked below.
 
 <p>
-  <a href="https://www.virustotal.com/gui/file-analysis/ZGM4YmM2YTZhY2Q0ZWM5OGEwMTU1ODgzZTI3N2NhNTE6MTc3OTM3NzM1NQ==">
+  <a href="https://www.virustotal.com/gui/file-analysis/ZGM4YmM2YTZhY2Q0ZWM5OGEwMTU1ODgzZTI3N2NhNTE6MTc4MDQwODYyNQ==">
     <img alt="Windows VirusTotal" src="https://img.shields.io/static/v1?style=for-the-badge&label=VirusTotal&message=View+report&color=2f81f7">
   </a>
-  <a href="https://www.virustotal.com/gui/file-analysis/OTRkOWYxMmY3ZTAyMzNhZjhlZmFhMmYzMTU0YWY5M2E6MTc3OTM3NzM1Mw==">
+  <a href="https://www.virustotal.com/gui/file-analysis/OTRkOWYxMmY3ZTAyMzNhZjhlZmFhMmYzMTU0YWY5M2E6MTc4MDQwODYyMw==">
     <img alt="macOS ARM64 VirusTotal" src="https://img.shields.io/static/v1?style=for-the-badge&label=VirusTotal&message=View+report&color=2f81f7">
   </a>
-  <a href="https://www.virustotal.com/gui/file-analysis/N2MxYmE5NzNlZjQ3NGVkMDYzOGM2YjY3ZDFlZmU0ZmU6MTc3OTM3NzM1OA==">
+  <a href="https://www.virustotal.com/gui/file-analysis/N2MxYmE5NzNlZjQ3NGVkMDYzOGM2YjY3ZDFlZmU0ZmU6MTc4MDQwODYyOQ==">
     <img alt="macOS Intel VirusTotal" src="https://img.shields.io/static/v1?style=for-the-badge&label=VirusTotal&message=View+report&color=2f81f7">
   </a>
 </p>
